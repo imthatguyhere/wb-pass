@@ -1,0 +1,28 @@
+{
+  "name": "wb-pass",
+  "version": "1.0.0",
+  "description": "WarpBits Password Generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imthatguyhere/wb-pass.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "Imthatguyhere (ITGH | Tyler)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imthatguyhere/wb-pass/issues"
+  },
+  "homepage": "https://github.com/imthatguyhere/wb-pass#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.6.3"
+  }
+}

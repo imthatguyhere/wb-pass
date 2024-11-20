@@ -1,2 +1,8 @@
-src/verified-words--pre-lower.txt
-src/verified-words.txt
+#==- Ingored
+/node_modules/*
+/src/rsrc/*
+/dist/*
+
+#==- Exceptions
+!/dist/
+!/dist/.gitkeep
