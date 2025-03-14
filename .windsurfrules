@@ -1,4 +1,4 @@
-1. Comments in .ts files must be in "/*=-- text */" and "/=-- text" format.
+1. Comments in .ts files must be in "//*=-- text */" for multiline and "//=-- text" format.
 2. All functions and classes should have TSDoc comments.
 3. Classes should be named in PascalCase.
 4. Functions should be named in camelCase.

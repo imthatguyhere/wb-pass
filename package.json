@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/imthatguyhere/wb-pass#readme",
   "devDependencies": {
+    "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
   }
