@@ -1,0 +1,9 @@
+1. Comments in .ts files must be in "/*=-- text */" and "/=-- text" format.
+2. All functions and classes should have TSDoc comments.
+3. Classes should be named in PascalCase.
+4. Functions should be named in camelCase.
+5. Variables should be named in camelCase.
+6. Constants should be named in UPPERCASE.
+7. All Classes, Functions, and Variables should have defined types.
+8. All functions should have defined return types.
+9. Classes, interfaces, and types should be used over functions.
